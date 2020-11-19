@@ -1,0 +1,20 @@
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/Ibl4r8q7"]
+[Date "2020.11.19"]
+[White "fisherro"]
+[Black "lichess AI level 3"]
+[Result "1-0"]
+[UTCDate "2020.11.19"]
+[UTCTime "15:33:58"]
+[WhiteElo "1500"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. d4 d6 { A41 Queen's Pawn } 2. Bf4 e6 3. e3 c6 4. Nf3 Nd7 5. c3 h6 6. Bd3 Be7 7. O-O b5 8. e4 Ngf6 9. e5 dxe5 10. Bxe5 Nh5 11. Nbd2 Bb7 12. Ne4 a5 13. Qe2 a4 14. a3 Kf8 15. Nd6 Qb8 16. Nh4 Nhf6 17. Qf3 Bxd6 18. Bxd6+ Qxd6 19. Nf5 Qd5 20. Rfe1 exf5 21. Bxf5 Qb3 22. Bxd7 Qxb2 23. Rab1 Qc2 24. Bxc6 b4 25. Bxb7 Rd8 26. Be4 Nxe4 27. Qxe4 Qxe4 28. Rxe4 bxc3 29. Rc1 f5 30. Rf4 Ke7 31. Rxc3 g6 32. Rc6 Kf7 33. Kf1 Rhe8 34. Rf3 Rd7 35. Rc4 Ra8 36. Rd3 f4 37. Ke2 Kf6 38. d5 g5 39. d6 Rb8 40. Rc7 Ke6 41. Kf3 Rb3 42. Rcc3 Rxc3 43. Rxc3 h5 44. Rc7 g4+ 45. Ke4 f3 46. g3 Rxd6 47. Rc5 Ke7 48. Rxh5 Kd7 49. Rg5 Rd1 50. Rxg4 Rd6 51. Kxf3 Rd3+ 52. Kf4 Rxa3 53. h4 Rd3 54. h5 Rd5 55. h6 Ke6 56. h7 Rh5 57. Rh4 Rf5+ 58. Kg4 Rh5 59. Rxh5 Kf7 60. h8=Q a3 61. Ra5 Ke6 62. Rxa3 Kd6 63. Qd4+ Kc6 64. Ra4 Kb7 65. Qc5 Kb8 66. Rc4 Kb7 67. Qb5+ Ka7 68. Rb4 Ka8 69. Qb8# { White wins by checkmate. } 1-0
+
+
