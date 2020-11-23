@@ -1,0 +1,22 @@
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/nGlXlccf"]
+[Date "2020.11.20"]
+[White "fisherro"]
+[Black "mebmebmebmeb"]
+[Result "1-0"]
+[UTCDate "2020.11.20"]
+[UTCTime "14:03:23"]
+[WhiteElo "1500"]
+[BlackElo "1525"]
+[WhiteRatingDiff "+218"]
+[BlackRatingDiff "-27"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Variation"]
+[Termination "Time forfeit"]
+[Annotator "lichess.org"]
+
+1. d4 d5 2. Bf4 { D00 Queen's Pawn Game: Mason Variation } c6 3. e3 f5 4. Bd3 h6 5. Nf3 g5 6. Be5 Rh7 7. O-O Nd7 8. Bxf5 Rf7 9. Bg4 Nxe5 10. Nxe5 Rf6 11. Nc3 Qc7 12. Na4 h5 13. Bxh5+ Kd8 14. Nc5 Rh6 15. Nf7+ Ke8 16. Nxh6+ Kd8 17. Nxg8 e5 18. Bg4 exd4 19. Ne6+ Bxe6 20. Nf6 Qe5 21. Qxd4 Bd6 22. f4 c5 23. Qxe5 Bxe5 24. fxe5 Bxg4 25. Nxg4 d4 26. exd4 { White wins on time. } 1-0
+
+
