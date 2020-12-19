@@ -1,0 +1,25 @@
+[Event "Let\\'s Play!"]
+[Site "Chess.com"]
+[Date "2020.12.07"]
+[Round "?"]
+[White "Lonnie76"]
+[Black "malirath"]
+[Result "0-1"]
+[ECO "A46"]
+[WhiteElo "1194"]
+[BlackElo "1335"]
+[TimeControl "1/259200"]
+[EndDate "2020.12.19"]
+[Termination "malirath won on time"]
+
+1. d4 {[%timestamp 120]} 1... d6 {[%timestamp 600]} 2. Nf3 {[%timestamp 21170]}
+2... Nf6 {[%timestamp 23200]} 3. c4 {[%timestamp 86250]} 3... g6 {[%timestamp
+330]} 4. Bf4 {[%timestamp 9070]} 4... Bg7 {[%timestamp 6600]} 5. Nc3
+{[%timestamp 26380]} 5... O-O {[%timestamp 168920]} 6. Ng5 {[%timestamp 382100]}
+6... Bf5 {[%timestamp 116360]} 7. e4 {[%timestamp 195020]} 7... Bg4 {[%timestamp
+264140]} 8. Qb3 {[%timestamp 205400]} 8... c5 {[%timestamp 222390]} 9. Qxb7
+{[%timestamp 214740]} 9... Nbd7 {[%timestamp 91770]} 10. Nb5 {[%timestamp 770]}
+10... a6 {[%timestamp 583280]} 11. Nc7 {[%timestamp 190710]} 11... Rc8
+{[%timestamp 764500]} 12. Nd5 {[%timestamp 3490]} 12... Nh5 {[%timestamp
+783770]} 13. Qxa6 {[%timestamp 1924120]} 13... cxd4 {[%timestamp 658140]} 14.
+Bd3 {[%timestamp 296050]} 14... f6 {[%timestamp 564500]} 0-1
